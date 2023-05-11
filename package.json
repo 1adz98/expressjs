@@ -1,0 +1,25 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "first server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1adz98/story.git"
+  },
+  "author": "erald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1adz98/story/issues"
+  },
+  "homepage": "https://github.com/1adz98/story#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
